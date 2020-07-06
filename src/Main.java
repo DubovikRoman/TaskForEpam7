@@ -28,8 +28,5 @@ public class Main {
         System.out.println(s5);
         String s6 = rb.getString("str2");
         System.out.println(s6);
-
-
-
     }
 }
